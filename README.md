@@ -6,7 +6,7 @@
 3. create a new hail.txt file.
 4. add the file to staging area.
 5. commmit the changes.
-6. open the hail.txt file and add the following line "I am from Hail!"
+6. open the hail. g  file and add the following line "I am from Hail!"
 7. add the changes to the staging area.
 8. commit the changes .
 9. push the changes to your remote repository . 
